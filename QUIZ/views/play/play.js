@@ -24,7 +24,7 @@ let questions = [
     title: "What does CSS stand for?",
     choiceA: "Cisco and Super Start",
     choiceB: "Ci So Sa",
-    choiceC: "Cascading Style Sheets ",
+    choiceC: "Cascading Style Sheets",
     choiceD: "I don't know !",
     correct: "C",
   },
